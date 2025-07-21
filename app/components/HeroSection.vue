@@ -14,7 +14,7 @@
                             class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-display font-bold leading-tight">
                             <span class="text-barber-cream">Estilo &</span>
                             <br>
-                            <span class="text-barber-gold">Tradição</span>
+                            <span class="text-barber-gold">Tradição Alterado</span>
                         </h1>
 
                         <div class="w-16 lg:w-24 h-1 bg-barber-gold"></div>
